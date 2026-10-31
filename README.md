@@ -25,7 +25,7 @@ J’aime comprendre un besoin, organiser le travail et construire une solution u
 
 **Outils :** Excel, Word, PowerPoint, Zoho, Slack, Moodle, Power BI, KoboToolbox, Python et GitHub.
 
-**Formation :** parcours M1 Data & Intelligence artificielle et licence professionnelle en agronomie.
+**Formation :** M1 validé en Data et Intelligence artificielle (IA School / Nexa Digital School) et licence professionnelle en agronomie.
 
 ## Échangeons
 
